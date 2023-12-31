@@ -17,13 +17,14 @@ Files written with the Orenge standard are to have the file extension `.orenge`.
 Uses the following technologies:
 
 ### Typography
-- Markdown
+- [Obsidian Markdown specification](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown)
+- [MathJax](https://www.mathjax.org/)
 
 ### Diagramming
-- Mermaid
+- [Mermaid](https://mermaid.js.org/)
 
 ### Charts
-- TBC
+- [Chart.js](https://www.chartjs.org/)
 
 ## Roadmap
 1. Release standard.
