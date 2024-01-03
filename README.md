@@ -14,14 +14,19 @@ The purpose of this standard is to allow engineering software to share informati
 Files written with the Orenge standard are to have the file extension `.orenge`. A compiled report containing multiple `.orenge` files is to have the file extension `.corenge`.
 
 ## Dependencies
-Uses the following technologies:
+Uses the following technologies and specifications:
+
+### Daya
+- [YAML](https://yaml.org/spec/1.2.2/) - used for identifying data in header.
 
 ### Typography
 - [Obsidian Markdown specification](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown)
+- [CommonMark](https://spec.commonmark.org/)
 - [MathJax](https://www.mathjax.org/)
 
 ### Diagramming
 - [Mermaid](https://mermaid.js.org/)
+- Engineering specific diagramming software (to be implemented as separate specification).
 
 ### Charts
 - [Chart.js](https://www.chartjs.org/)
